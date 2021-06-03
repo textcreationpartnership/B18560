@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Charles Duke of Southampton, respondent, at the suit of Sir Cæsar Wood, alias Cranmer knight, appellant</title>
+            <author>Cleveland, Charles Fitzroy, Duke of, 1662-1730.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18560</idno><idno type="EEBO-CITATION">99825637</idno>
+  <idno type="VID">206659</idno>
+  <idno type="EEBO-PROQUEST">2248511021</idno>
+  
+            <idno type="STC">Wing C890</idno>
+            <idno type="PROQUEST">99825637</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825637e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1791:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Charles Duke of Southampton, respondent, at the suit of Sir Cæsar Wood, alias Cranmer knight, appellant</title>
+                  <author>Cleveland, Charles Fitzroy, Duke of, 1662-1730.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the left of title: For the Duke of Southampton.</note>
+                  <note>Caption title; imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wood, Caesar, --  Sir --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:206659:1"/>
+            <head>THE CASE OF Charles Duke of Southampton,
+<note place="margin">For the Duke of <hi>Southamp<g ref="char:EOLhyphen"/>ton.</hi>
+               </note> Respondent, At the SUIT of Sir <hi>CAESAR WOOD,</hi> alias <hi>CRANMER</hi> Knight, Appellant.</head>
+            <p>BY Indentures of Lease and Release Sir <hi>Henry Wood</hi> Knight and Baronet,
+<note place="margin">22, &amp; 23 <hi>May,</hi> 1671.</note> in Consideration of a Marriage to be had between the <hi>Respondent</hi> and <hi>Mary</hi> (Daughter, Heir, and only Child of the said Sir <hi>Henry Wood,</hi>) did convey his the said Sir <hi>Henry Wood</hi>'s Lands and Estate unto the Earl of St. <hi>Alban,</hi> Lord <hi>Arlington,</hi> Sir <hi>Thomas Clifford,</hi> Dame <hi>Mary Chester,</hi> Dr. <hi>Thomas Wood</hi> (now Bishop of <hi>Litchfield</hi> and <hi>Coventry</hi>) Sir <hi>Caesar Cranmer</hi> (the now Appellant) and <hi>John Gardiner</hi> Esq; and their Heirs <hi>In Trust,</hi> That after Sir <hi>Henry Wood</hi>'s Decease the said <hi>Trustees</hi> should receive out of the Rents and Profits the Summe of 450 <hi>l.</hi> to be paid yearly to the Lady <hi>Chester,</hi> so long as she should have the Tuition of the said <hi>Mary Wood,</hi> for her Maintenance, until her Age of 12 years, and after her Age of 12 years 550 <hi>l. per Annum,</hi> until the said <hi>Mary</hi> should be Married, or attain her Age of 17 years, (which should first happen) and that the said <hi>Trustees</hi> should dispose of, and pay the Residue of the Profits of the Premisses to the <hi>Respondent</hi> after his Marriage with the said <hi>Mary</hi> (reasonable Security being first given to provide Portions for such Daughter and Daughters, as should, during such Marriage, be be<g ref="char:EOLhyphen"/>gotten by the <hi>Respondent</hi> on the Body of the said <hi>Mary</hi>) and in Case there should be no Daughter or Daughters, then the Profits to remain to the <hi>Respondent,</hi> his Executors, and Administrators, and in Case the said <hi>Mary Wood</hi> should dye before she attained her Age of 17 years or were Married to the <hi>Respondent</hi> then in Trust for such Uses, as Sir <hi>Henry Wood</hi> should by his last Will direct and appoint.</p>
+            <p>And in Case the said <hi>Mary Wood</hi> should happen to dye after Sir <hi>Henry Wood,</hi> before her Age of 16 years (the <hi>Respondent</hi> being then living and unmarried) or if the said <hi>Mary</hi> should (after her Age of 16 years) refuse to Marry the <hi>Respondent,</hi> that then the Trustees should stand seized of the Premisses for the raising of 20000 <hi>l.</hi> to be paid to the <hi>Respondent</hi> (if then living and unmarried.)</p>
+            <p>But if the said Marriage should take effect, after the said <hi>Mary</hi>'s Age of 16 years, and the said <hi>Mary</hi> should have Issue Male by the <hi>Respon<g ref="char:EOLhyphen"/>dent,</hi> then for the better Settlement of the Premisses upon the Issue Male of the said Marriage, and for a more ample Provision, for the mainte<g ref="char:EOLhyphen"/>nance of the <hi>Respondent,</hi> and <hi>Mary</hi> his Wife, and the Survivor of them, the said Trustees should stand seized of the Premisses in Trust for the <hi>Re<g ref="char:EOLhyphen"/>spondent,</hi> and the said <hi>Mary</hi> his Wife, and the Survivor of them, during their Lives; and after their Deaths in Trust for the 1st. 2d. 3d. and 10th. Sons, and in Default of Issue Male to the Daughter and Daughters on the Body of the said <hi>Mary</hi> to be begotten by the <hi>Respondent,</hi> and the Heirs of the several Bodies of such Daughter and Daughters, and in default of such Issue in Trust for such Persons as Sir <hi>Henry Wood</hi> should by his Will direct and appoint, and in default of such Appointment in Trust for the right Heirs of Sir <hi>Henry Wood.</hi>
+            </p>
+            <p>Sir <hi>Henry Wood</hi> by his Will recites and confirms the said Indentures of Lease and Release,
+<note place="margin">24 <hi>May</hi> 1671.</note> and does declare, That in pursuance of the Po<g ref="char:EOLhyphen"/>wer to him reserved in the said Indenture of Release, in case the Marriage between the <hi>Respondent</hi> and the said <hi>Mary</hi> should not take effect, that in such Case, or if the <hi>Respondent</hi> should dye without Issue by her; or if he have Issue by her after the Death of such Issue without Issue, then the Trustees and their Heirs should stand seized of the Premisses in Trust for the said <hi>Mary Wood,</hi> and her Assigns during her Life, and af<g ref="char:EOLhyphen"/>ter her Death, in Trust for the first second, and tenth Son of the said <hi>Mary Wood</hi> in Tail, and in default of Issue Male to the Daughter and Daughters of the said <hi>Mary Wood,</hi> and the Heirs of their Bodies, and for default of such Issue in Trust for Dr. <hi>Thomas Wood</hi> for Life, and to his first, second, and tenth Son, and in default thereof to his Daughters and the Heirs of their Bodies; and for default of such Issue in Trust for the Lady <hi>Chester</hi> for Life, and after her Death to the Appellant Sir <hi>Caesar Wood,</hi> alias <hi>Cranmer,</hi> for Life, and to his first, second, third, and tenth Son, and in default of such Issue to <hi>Elizabeth Webb,</hi> for Life, with divers other Remainders over.</p>
+            <p>And by his Will does appoint that Sir <hi>Henry Felton,</hi> the Lady <hi>Chester,</hi> Dr. <hi>Wood,</hi> (the now Bishop,) Sir <hi>Caesar Cranmer</hi> (the now Appellant,) and the said <hi>John Gardiner</hi> and the Survivor of them and their Heirs, shall receive the Rents of the Premisses, and make Leases, untill his Daughter <hi>Mary Wood</hi> should attain her Age of 21, or be Married, which should first happen, and then to be accountable to her, and gives to her all his Leases for Lives or Years, and personal Estate whatsoever, to be preserved, or disposed of, for the Purchase of Lands to be settled as aforesaid, or for her by his Executors therein after-named, until she should attain her Age of 21 or be Married, which should first happen, and then to be accounted for, and delivered to her, and if she should dye before she attain her Age of 21. and unmarried, then he gave the same, or such part as was not laid out in Lands unto his Executors, and makes the Lady <hi>Chester,</hi> and Dr. <hi>Wood</hi> (the now Bishop) Executors in Trust for the said <hi>Mary</hi> his Daughter,
+<note place="margin">Sir <hi>Hen. Wood</hi> dyed 25 <hi>May.</hi> 1671.</note> untill her Age of 21, or Day of Marriage, which should first happen, and after she attained her Age of 21, or was Married, then he makes his Daughter <hi>Mary sole Executrix,</hi> and dyes the next day, being the 25th. day of <hi>May,</hi> 1671.</p>
+            <p>The <hi>Respondent,</hi> and the said <hi>Mary</hi> were Married about seven Weeks after the Death of Sir <hi>Henry Wood,</hi> whereby the Executorship of the La<g ref="char:EOLhyphen"/>dy <hi>Chester,</hi> and the Bishop was determined; but the <hi>Respondent</hi> and the said <hi>Mary</hi> being then under the Age of Consent, they were again duly Married on the 29th. day of <hi>June,</hi> 1676. by Dr. <hi>Fell,</hi> the late Bishop of <hi>Oxford,</hi> the <hi>Respondent</hi> being then above 14 years old, and the said <hi>Mary</hi> above the Age of 12 years,
+<note place="margin">20 <hi>June</hi> 1687.</note> and after their Marriage Administration is granted, with the Will annexed of Sir <hi>Henry Wood,</hi> unto Sir <hi>John Trevor,</hi> as Guardian to the said <hi>Mary</hi> Dutchess of <hi>Southampton,</hi> Executrix of the said Sir <hi>Henry Wood,</hi> during her Minority.</p>
+            <p>That <hi>Mary</hi> Dutchess of <hi>Southampton</hi> the <hi>Respondent's</hi> late Wife dying the 15th. of <hi>November,</hi>
+               <note place="margin">
+                  <hi>Dutchess dyed</hi> 15 Nov. 1680.</note> 1680, being then almost 17 years old, after her Death Administration, with the Will annexed of Sir <hi>Henry Wood,</hi> was granted by the Court of Delegates unto the Lord Viscount <hi>Grandison</hi> Sir <hi>Edward Villers,</hi> and Sir <hi>John Trevor,</hi> as Guardians of and in Trust for the <hi>Respondent</hi> during his Minority.</p>
+            <p>The <hi>Respondent</hi> having attained his Age of 21 Administration <hi>de bonis non</hi> &amp;c. with the Will annexed of Sir <hi>Henry Wood,</hi>
+               <note place="margin">17. <hi>Nov.</hi> 1683.</note> was again granted by the Court of Delegates to the <hi>Respondent,</hi> and the <hi>Respondent</hi> also obtained Administration to his said late Wife.</p>
+            <p>The <hi>Respondent</hi> brought his Bill in Chancery,
+<note place="margin">Michaelmas <hi>Term,</hi> 1683.</note> as <hi>Administrator' de bonis non</hi> &amp;c. of Sir <hi>Henry Wood,</hi> and as Administrator to <hi>Mary</hi> his late Wife, against the Bishop of <hi>Litchfield</hi> and <hi>Coventry,</hi> and Sir <hi>Caesar Cranmer</hi> the Appellant (as well in his own right, as Executor of Dame <hi>Mary Chester</hi> his Mother) and others to have Account of the Personal Estates of Sir <hi>Henry Wood,</hi> and the <hi>Respondent's</hi> late Wife, and of the Profits of the real Estate, from the Death of Sir <hi>Henry Wood</hi> to the Death of <hi>Mary,</hi> the <hi>Respondent's</hi> said late Wife.</p>
+            <p>The Cause was heard,
+<note place="margin">27 <hi>Octob.</hi> 1685.</note> and it was then decreed, That the Executorship of the Bishop and the Lady <hi>Chester</hi> was determined by the Marriage between the <hi>Respondent</hi> and the said <hi>Mary Wood,</hi> and that the <hi>Respondent</hi> should have an Account, as well of the Personal Estate of the said Sir <hi>Henry VVood,</hi> as of the Arrears of Rent and Profits of the Real Estate, from Sir <hi>Henry VVood</hi>'s Death to the Death of the Dutchess, and that the Bishop of <hi>Litchfield</hi> and <hi>Coventry,</hi> and Sir <hi>Caesar Cranmer</hi> the Appellant should respectively Account for all that came to their, or either of their Hands, and that the Appellant should Account for what came to the hands of the Lady <hi>Chester.</hi>
+            </p>
+            <p>That the <hi>Respondent</hi> hath now a Report for 3797 <hi>l.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>s.</hi> 6 <hi>d.</hi> due from the Bishop, and for 1073 <hi>l.</hi> 10 <hi>s.</hi> 3 <hi>d.</hi> due from Sir <hi>Stephen Fox,</hi> but cannot yet bring the said Appellant Sir <hi>Caesar Cranmer</hi> to a fair Account, he keeping from the <hi>Respondent</hi> the Books, Papers, and Accounts rela<g ref="char:EOLhyphen"/>ting to the said Estates.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
